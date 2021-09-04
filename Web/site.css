@@ -1,0 +1,79 @@
+.container-fluid {
+    width: 100%;
+    margin: 0px;
+    background: red;
+    height: 100%;
+    font-family: lato;
+}
+
+
+/* ###### HEADER ROW ###### */
+
+.header {
+    background: linear-gradient(202deg, rgba(202, 202, 202, 1) -15%, rgba(0, 0, 0, 1) 100%);
+    color: white;
+    height: 320px;
+    padding: 87px;
+}
+
+.header h2 {
+    font-size: 49px;
+}
+
+.header p {
+    font-size: 18.48px;
+}
+
+.header h4 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.header-content {
+    padding: 3rem 3rem 3rem 3rem;
+}
+
+.header .columna {
+    margin-left: 8.15rem;
+}
+
+
+/* ###### HEADER ROW END ###### */
+
+
+/* ###### FIRST CONTENT ROW ###### */
+
+.content-1 {
+    background-color: white;
+}
+
+
+/* ###### MIDDLE ROW ###### */
+
+.content-2 {
+    background-color: gray;
+}
+
+.center-content-2 {
+    margin-left: 5%;
+}
+
+
+/* ###### LAST ROW ###### */
+
+.content-3 {
+    background-color: white;
+    padding: 15px;
+}
+
+.content-3-top-row {
+    background-color: gray;
+}
+
+.content-3-btm-row {
+    background-color: lightgray;
+}
+
+.content-3-col {
+    padding: 15px;
+}
